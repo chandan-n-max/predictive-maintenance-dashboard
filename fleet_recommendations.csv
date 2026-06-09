@@ -1,0 +1,101 @@
+unit_id,predicted_rul,risk_level,risk_emoji,action,downtime_risk,priority,flagged_sensor,sensor_meaning,z_score,actual_rul
+34,6.6,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor12,Fuel flow ratio,3.584,7
+81,7.3,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor9,Physical fan speed,3.634,8
+35,7.9,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,2.418,11
+76,8.3,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor14,Corrected fan speed,16.046,10
+68,11.7,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,2.166,8
+31,12.0,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor9,Physical fan speed,7.275,8
+56,12.6,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor7,Total pressure at HPC outlet,2.598,15
+66,12.8,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor14,Corrected fan speed,12.208,14
+82,14.1,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor7,Total pressure at HPC outlet,3.456,9
+24,16.4,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor9,Physical fan speed,13.493,20
+92,17.0,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor7,Total pressure at HPC outlet,3.286,20
+91,17.4,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.992,38
+42,18.5,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor9,Physical fan speed,7.97,10
+100,18.7,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor14,Corrected fan speed,22.191,20
+20,20.2,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor20,Total pressure ratio across turbine,2.817,16
+36,20.2,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor12,Fuel flow ratio,1.59,19
+49,20.9,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,2.993,21
+90,24.0,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor9,Physical fan speed,5.277,28
+52,26.3,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor14,Corrected fan speed,3.929,29
+40,28.4,CRITICAL,🔴,Schedule urgent inspection immediately,HIGH — unplanned failure likely within 30 cycles,1,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.764,28
+53,38.7,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,2.045,26
+64,39.3,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor7,Total pressure at HPC outlet,1.501,28
+32,45.0,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor14,Corrected fan speed,4.511,48
+93,45.1,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor14,Corrected fan speed,3.859,85
+46,47.3,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor9,Physical fan speed,4.959,47
+61,47.6,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,2.321,21
+38,48.0,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor11,Static pressure at HPC outlet,1.182,50
+58,48.2,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor20,Total pressure ratio across turbine,2.132,37
+17,48.5,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.718,50
+3,49.3,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor11,Static pressure at HPC outlet,1.869,69
+77,49.9,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor17,Bleed enthalpy,1.781,34
+62,53.2,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor9,Physical fan speed,8.078,54
+41,64.8,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor14,Corrected fan speed,2.436,18
+45,64.8,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor14,Corrected fan speed,3.288,114
+94,65.5,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,1.118,55
+37,68.3,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor2,Total temperature at LPC (Low Pressure Compressor) outlet,1.159,21
+84,69.5,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor2,Total temperature at LPC (Low Pressure Compressor) outlet,1.19,58
+18,73.1,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.805,28
+21,76.0,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor21,Bypass ratio,2.356,57
+72,79.5,WARNING,🟡,Flag for next scheduled maintenance window,"MEDIUM — monitor closely, plan maintenance soon",2,sensor9,Physical fan speed,4.854,50
+43,81.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor7,Total pressure at HPC outlet,1.414,59
+98,84.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.683,59
+80,85.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,0.863,90
+63,86.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor2,Total temperature at LPC (Low Pressure Compressor) outlet,1.316,72
+74,87.2,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor7,Total pressure at HPC outlet,1.199,126
+11,89.7,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.76,97
+4,90.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor20,Total pressure ratio across turbine,1.571,82
+29,93.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor9,Physical fan speed,2.969,90
+12,95.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,8.704,124
+60,96.3,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,1.021,100
+97,96.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor20,Total pressure ratio across turbine,1.587,82
+13,97.5,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor2,Total temperature at LPC (Low Pressure Compressor) outlet,1.132,95
+67,99.2,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor9,Physical fan speed,4.379,77
+86,102.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor9,Physical fan speed,1.166,89
+50,103.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,1.489,79
+7,103.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor2,Total temperature at LPC (Low Pressure Compressor) outlet,0.923,91
+14,103.9,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,2.231,107
+47,104.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,3.271,135
+16,106.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,3.355,84
+51,107.7,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.314,114
+48,108.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor11,Static pressure at HPC outlet,1.493,92
+30,108.3,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.87,115
+71,108.7,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor12,Fuel flow ratio,2.538,118
+8,108.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.408,95
+55,109.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,1.345,137
+22,110.2,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,2.083,111
+75,110.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor21,Bypass ratio,2.569,113
+73,110.7,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,4.087,131
+10,111.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor7,Total pressure at HPC outlet,1.094,96
+26,111.2,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,2.515,119
+15,111.3,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor20,Total pressure ratio across turbine,1.391,83
+69,111.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor9,Physical fan speed,2.496,121
+95,111.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,2.321,128
+5,111.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,2.189,91
+28,112.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,2.797,97
+83,112.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.104,137
+89,112.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor17,Bleed enthalpy,1.495,136
+57,112.3,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor7,Total pressure at HPC outlet,1.166,103
+70,112.5,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.41,94
+9,112.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor7,Total pressure at HPC outlet,2.179,111
+44,112.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,5.152,109
+19,113.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,3.851,87
+85,113.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.434,118
+25,114.9,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor3,Total temperature at HPC (High Pressure Compressor) outlet,1.374,145
+87,115.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,2.409,116
+6,115.5,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,4.061,93
+33,116.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.379,106
+59,116.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor17,Bleed enthalpy,1.441,114
+1,117.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor9,Physical fan speed,1.656,112
+39,117.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,4.29,142
+96,117.8,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,2.842,137
+88,118.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.794,115
+27,119.1,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.898,66
+23,122.5,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor11,Static pressure at HPC outlet,2.042,113
+79,123.2,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,2.582,63
+54,123.4,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor7,Total pressure at HPC outlet,1.453,97
+99,123.7,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,3.361,117
+65,124.6,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.713,128
+2,125.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor14,Corrected fan speed,1.883,98
+78,125.0,STABLE,🟢,Continue monitoring — no action required,LOW — engine operating within normal parameters,3,sensor4,Total temperature at LPT (Low Pressure Turbine) outlet,1.488,107
